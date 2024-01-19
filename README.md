@@ -13,4 +13,4 @@
 
 <!-- Portifólio -->
 ## Portifólio 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://gilvanpoliveira.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=white)](https://gilvanpoliveira.github.io/)
