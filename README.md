@@ -4,15 +4,16 @@
 <!-- Exibir Linguagens mais utilizadas -->
 <!--
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>
 
 ## Formações
 - [x] Desenvolvedor FullStack
 - [x] Engenheiro Civil
 
-## Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,styledcomponents,react,vite,vue,angular,nextjs,java,git,github,nodejs,vscode,mongodb,mysql,autocad,sketchup&perline=10)](https://github.com/GilvanPOliveira)
+## Stacks
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,styledcomponents,react,vite,vue,angular,nextjs,java,git,github,nodejs,vscode,mongodb,mysql,autocad,sketchup&perline=9)](https://github.com/GilvanPOliveira)
 
 <!-- Social -->
 ## Contatos
