@@ -12,7 +12,7 @@
 
 ## Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,styledcomponents,react,vite,vue,angular,nextjs,java,git,github,nodejs,vscode,mongodb,mysql,autocad,sketchup&perline=3)](https://github.com/GilvanPOliveira)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,styledcomponents,react,vite,vue,angular,nextjs,java,git,github,nodejs,vscode,mongodb,mysql,autocad,sketchup&perline=10)](https://github.com/GilvanPOliveira)
 
 <!-- Social -->
 ## Contatos
