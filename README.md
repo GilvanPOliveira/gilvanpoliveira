@@ -9,6 +9,26 @@
 - [x] Engenheiro Civil
 
 ## Stacks
+
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,styledcomponents,react,vite,vue,angular,nextjs,java,git,github,nodejs,vscode,mongodb,mysql,autocad,sketchup)](https://github.com/GilvanPOliveira)
+
+<!-- Social -->
+## Contatos
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gilvanpoliveira/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gilvanpoliveira06@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/gilvanpoliveira)
+
+<!-- Portifólio -->
+## Portifólio:
+[![GitHub](https://img.shields.io/badge/GitHub-595959?style=for-the-badge&logo=github&logoColor=white)](https://gilvanpoliveira.github.io/)
+
+
+<!-- 
+## Contatos
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanpoliveira/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com)
+  Stacks:
+
   <a href="https://html.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/f2ce4039c99cf35adde738583ab0fbcd60eaafccf1e949884bda91d0b5c819ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" height="40" width="52" alt="html5 logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;">
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow"><img src="https://camo.githubusercontent.com/0da944f181647261c840e34b20ed7e3ca44ddc150869c6ea550cf98d06c81a37/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" height="40" width="52" alt="css3 logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;">
@@ -23,13 +43,4 @@
   </a>
   <a href="https://github.com/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF" height="40" width="40" alt="github logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;">
   </a>
-
-
-<!-- Social -->
-## Contatos
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanpoliveira/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com)
-
-<!-- Portifólio -->
-## Portifólio:
-[![GitHub](https://img.shields.io/badge/GitHub-595959?style=for-the-badge&logo=github&logoColor=white)](https://gilvanpoliveira.github.io/)
+-->
