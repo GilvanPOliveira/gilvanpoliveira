@@ -1,14 +1,8 @@
-# Hello There, 
-## Gilvan Oliveira 🙋‍♂️ 
-
-<!-- Exibir Linguagens mais utilizadas -->
-<!--
--->
+# Hello There,
 
 ## Formações
 - [x] Desenvolvedor FullStack
 - [x] Engenheiro Civil
-
 
 ## Stacks
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>
