@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=435&lines=me+chamo+Gilvan+Oliveira.;je+m'appelle+Gilvan+Oliveira.;my+name+is+Gilvan+Oliveira.)](https://github.com/GilvanPOliveira)
 
 ## Formações
-- [x] Desenvolvedor FullStack
-- [x] Engenheiro Civil
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=435&lines=Desenvolvedor+FullStack)](https://gilvanpoliveira.github.io/)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=435&lines=Engenheiro+Civil)](https://www.linkedin.com/in/gilvanpoliveira/)
 
 ## Stacks
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>
@@ -16,6 +17,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gilvanpoliveira/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gilvanpoliveira06@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/gilvanpoliveira)
+[![My Skills](https://skillicons.dev/icons?i=jenkins)](https://devpoolbr.com.br/profile/GilvanPOliveira)
+
 
 <!-- Portifólio -->
 ## Portifólio:
