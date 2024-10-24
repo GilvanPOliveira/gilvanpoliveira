@@ -8,8 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=435&lines=Engenheiro+Civil)](https://www.linkedin.com/in/gilvanpoliveira/)
 
 ## Stacks
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,styledcomponents,react,vite,git,github,nodejs,vscode,autocad,sketchup&perline=9)](https://github.com/GilvanPOliveira)
-<!--![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,styledcomponents,react,vite,vue,angular,nextjs,java,git,github,nodejs,vscode,mongodb,mysql,autocad,sketchup&perline=9)](https://github.com/GilvanPOliveira)-->
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,python,java,dart,react,angular,vue,next,nodejs,flutter,androidstudio,vite,sass,bootstrap,styledcomponents,figma,vscode,git,raspberrypi,eclipse,mysql,mongodb,azure,autocad,sketchup&perline=9)](https://github.com/GilvanPOliveira)
 
 <!-- Social -->
 ## Contatos
