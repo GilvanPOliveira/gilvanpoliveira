@@ -10,7 +10,7 @@
 ## Stacks
 [![My Skills](https://skillicons.dev/icons?i=html,js,react,sass,python,mysql,css,ts,next,git,autocad,sketchup&perline=6)](https://github.com/GilvanPOliveira)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>  
 
 
 <!-- Social -->
