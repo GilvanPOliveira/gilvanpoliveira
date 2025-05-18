@@ -10,11 +10,11 @@
 <p>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gilvanpoliveira/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48px"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32px"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gilvanpoliveira.github.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48px"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="32px"/>
   </a>
 </p>
 <p>
