@@ -6,7 +6,29 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=530&lines=Contacte-me:;Contactez-moi:;Contact+me:)](https://gilvanpoliveira.github.io/)
 
 
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gilvanpoliveira/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32px"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gilvanpoliveira.github.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="32px"/>
+  </a>
+
+</p>
+
+<p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=80&lines=Linkedin" alt="LinkedIn texto"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=80&lines=Github" alt="GitHub texto"/>
+  
+</p>
+
+
 <!-- Social -->
+<!--
 <a href="https://www.linkedin.com/in/gilvanpoliveira/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 
@@ -18,7 +40,7 @@
  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=530&lines=Github)](https://gilvanpoliveira.github.io/)
 </a>
-
+-->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=530&lines=Stacks:)](https://gilvanpoliveira.github.io/)
   
 [![My Skills](https://skillicons.dev/icons?i=html,js,react,sass,python,autocad,flask,mysql,nodejs,git,vscode,sketchup&perline=6)](https://github.com/GilvanPOliveira)
