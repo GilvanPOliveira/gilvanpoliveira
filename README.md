@@ -11,16 +11,18 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=530&lines=Linkedin)](https://www.linkedin.com/in/gilvanpoliveira/)
 </a>
+
 <a href="https://gilvanpoliveira.github.io/" target="_blank">  
   <img src="https://skillicons.dev/icons?i=github" alt="Portifólio"/>
-
+ 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=530&lines=Github)](https://gilvanpoliveira.github.io/)
 </a>
 
-## Stacks
-[![My Skills](https://skillicons.dev/icons?i=html,js,react,sass,python,mysql,css,ts,next,git,autocad,sketchup&perline=6)](https://github.com/GilvanPOliveira)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=530&lines=Stacks:)](https://gilvanpoliveira.github.io/)
+  
+[![My Skills](https://skillicons.dev/icons?i=html,js,react,sass,python,autocad,flask,mysql,nodejs,git,vscode,sketchup&perline=6)](https://github.com/GilvanPOliveira)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&card_width=330&langs_count=10&theme=dark"/>  
 
 <!--[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gilvanpoliveira06@gmail.com)-->
 <!--<a href="mailto:gilvanpoliveira06@gmail.com" target="_blank">|
