@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=525&lines=Olá,+me+chamo+Gilvan+Oliveira.;Salut,+je+m'appelle+Gilvan+Oliveira.;Hello+There,+my+name+is+Gilvan+Oliveira.)](https://github.com/GilvanPOliveira)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=520&lines=Formações:+Desenvolvedor+FullStack,+Engenheiro+Civil;Formations:+Développeur+Full+Stack,+Ingénieur+Civil;Education:+Full+Stack+Developer,+Civil+Engineer)](https://gilvanpoliveira.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=520&lines=Formações:+Desenvolvedor+FullStack+|+Engenheiro+Civil;Formations:+Développeur+Full+Stack+|+Ingénieur+Civil;Education:+Full+Stack+Developer+|+Civil+Engineer)](https://gilvanpoliveira.github.io/)
 
 ## Stacks
 [![My Skills](https://skillicons.dev/icons?i=html,js,react,sass,python,mysql,css,ts,next,git,autocad,sketchup&perline=6)](https://github.com/GilvanPOliveira)
