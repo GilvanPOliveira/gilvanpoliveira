@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/gilvanpoliveira/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=530&lines=Linkedin)](https://gilvanpoliveira.github.io/)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=31F784&width=530&lines=Linkedin)](https://www.linkedin.com/in/gilvanpoliveira/)
 </a>
 <a href="https://gilvanpoliveira.github.io/" target="_blank">  
   <img src="https://skillicons.dev/icons?i=github" alt="Portifólio"/>
